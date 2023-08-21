@@ -1,6 +1,6 @@
 public Class A() {
     int a = 20;
-    String str = "메인 변경 변수";
+    String str = "컨플릭트 1에서 변경";
 
     public void method1(){
 
